@@ -1,0 +1,102 @@
+cv:
+  name: "Dhruthi Saripalli"
+  location: "United Kingdom"
+  email: "dhruthisaripalli@gmail.com"
+  phone: "+44-7867258055"
+  website: null
+  social_networks:
+    - network: "LinkedIn"
+      username: "dhruthi-saripalli"
+  sections:
+    personal_statement:
+      - "Results-driven Accounts Assistant with proven experience in financial operations, process automation, and cross-functional collaboration. Skilled in Xero accounting software, Excel, and delivering efficient financial reporting across multi-entity environments."
+    
+    education:
+      - institution: "Cranfield University"
+        area: "Management"
+        degree: "MSc"
+        start_date: "2022-09"
+        end_date: "2023-09"
+        location: "United Kingdom"
+        summary: "Postgraduate degree focusing on strategic business management"
+        highlights: []
+
+      - institution: "BML Munjal University"
+        area: "Electronics and Communication"
+        degree: "B.Tech"
+        start_date: "2018-07"
+        end_date: "2022-09"
+        location: "India"
+        summary: "Undergraduate engineering degree"
+        highlights: []
+
+    certifications:
+      - name: "Association of Chartered Certified Accountants (ACCA)"
+        start_date: "2025-05"
+        end_date: "present"
+        summary: "Professional accounting qualification in progress"
+
+    experience:
+      - company: "Currys"
+        position: "Business Account Executive"
+        start_date: "2025-03"
+        end_date: "present"
+        location: "United Kingdom"
+        highlights:
+          - "Developed and managed B2B relationships across the UK, driving new account growth through targeted outreach and tailored value propositions"
+          - "Executed strategic sales campaigns leveraging Microsoft Teams, increasing business client engagement and retention"
+          - "Utilized Maginus ERP software to track leads, process sales orders, and manage customer accounts efficiently"
+          - "Monitored local competitor activities to recommend proactive strategies for maintaining competitive product offerings"
+
+      - company: "Future Connect Accountants"
+        position: "Financial Analyst Trainee"
+        start_date: "2024-07"
+        end_date: "2025-03"
+        location: "United Kingdom"
+        highlights:
+          - "Executed payroll operations using Sage 50, ensuring full compliance with HMRC regulations"
+          - "Implemented Making Tax Digital using Xero, reducing processing time by 30%"
+          - "Utilized advanced Excel techniques including pivot tables and slicers to streamline financial data workflows"
+
+      - company: "Nettoken"
+        position: "Pricing Strategy and Financial Modelling Analyst"
+        start_date: "2023-06"
+        end_date: "2023-09"
+        location: "United Kingdom"
+        highlights:
+          - "Conducted comprehensive customer interviews to develop strategic pricing models for digital products"
+          - "Integrated cost analysis, profitability objectives, and customer behavior insights to recommend data-driven pricing strategies"
+          - "Contributed to a 15% increase in customer acquisition and 10% improvement in customer retention through strategic pricing"
+
+      - company: "Algoswing"
+        position: "Beta Strategist"
+        start_date: "2022-01"
+        end_date: "2022-09"
+        location: "United Kingdom"
+        highlights:
+          - "Developed algorithms to mitigate financial losses and provide customer investment advice"
+          - "Conducted in-depth market research and stock performance analysis to identify investment opportunities"
+          - "Presented data-driven insights to upper management, improving decision-making processes"
+
+      - company: "Siva Mechanical Works"
+        position: "Customer Account Manager"
+        start_date: "2020-04"
+        end_date: "2022-09"
+        location: "India"
+        highlights:
+          - "Managed B2B client relationships, ensuring consistent communication and high customer satisfaction"
+          - "Oversaw end-to-end invoicing, accounts receivable tracking, and timely payment processing"
+          - "Led pricing negotiations and proactively resolved account discrepancies"
+
+    skills:
+      - label: "Accounting Software"
+        details: "Xero, Sage 50, Maginus ERP"
+      - label: "Financial Tools"
+        details: "Excel (Advanced), Tableau, Microsoft Teams"
+      - label: "Business Skills"
+        details: "B2B Sales, Account Management, Financial Reporting, Process Automation"
+      - label: "Languages"
+        details: "English (Fluent), Spanish/Italian (Basic)"
+
+design:
+  theme: "sb2nov"

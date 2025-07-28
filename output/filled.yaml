@@ -1,0 +1,55 @@
+cv:
+  name: Ruthvik Saripalli
+  location: Visakhapatnam, India
+  email: ruthvik1510@gmail.com
+  phone: +91-9121761510
+  social_networks:
+    - network: LinkedIn
+      username: ruthviksaripalli
+  
+  sections:
+    summary:
+      - "A motivated Business Analytics graduate with a strong foundation in data analysis, visualization, and strategic business insights. Proficient in transforming complex data into actionable intelligence using advanced analytical tools and techniques."
+
+    education:
+      - institution: Birla Global University
+        area: Business Analytics
+        degree: Bachelor of Business Administration
+        start_date: 2022-07
+        end_date: 2025-06
+        location: Bhubaneshwar, Odisha
+        highlights:
+          - "CGPA: 7.7/10"
+          - "❗ Remark: Consider highlighting academic achievements or relevant coursework"
+
+    skills:
+      - label: Technical Skills
+        details: "Data Analysis: Excel (Pivot Tables, VLOOKUP), SQL, Python (pandas, matplotlib)"
+      - label: Visualization Tools
+        details: "Tableau, MS Office, R"
+      - label: Soft Skills
+        details: "Problem-solving, Communication, Team Collaboration"
+
+    projects:
+      - name: "Market Dynamics Analysis"
+        summary: "Comprehensive research on investment strategies in the Indian market"
+        highlights:
+          - "Conducted in-depth analysis of short squeezes and long-term investing approaches"
+          - "❗ Remark: Provide more specific insights or methodologies used in the project"
+
+    certifications:
+      - name: "Business Data Analysis Certifications"
+        highlights:
+          - "Basic Data Descriptors and Statistical Distributions - Coursera (Rice University)"
+          - "Human Resources Analytics - Coursera (UCI)"
+          - "Introduction to Microsoft Excel - Coursera"
+          - "Introduction to Data Analysis using Excel - Coursera (Rice University)"
+
+    extracurricular_activities:
+      - bullet: "Represented state-level tennis competition"
+
+design:
+  theme: moderncv
+locale:
+  language: en
+  present: present

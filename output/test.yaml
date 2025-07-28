@@ -1,0 +1,134 @@
+cv:
+  name: "Likith Kumar Reddy Yammanuru"
+  location: "Milton Keynes, UK"
+  email: "yammanurulikithkumar@gmail.com"
+  phone: "+44 7469 277120"
+  social_networks:
+    - network: LinkedIn
+      username: "likith-yammanuru"
+  sections:
+    personal_statement:
+      - type: NormalEntry
+        title: "Personal Statement"
+        highlights:
+          - "Robotics engineer specialising in ROS2, reinforcement learning, and motion planning, with proven expertise in developing autonomous robotic systems."
+          - "Experienced in advanced locomotion algorithms, sensor fusion, and multi-robot coordination."
+          - "Demonstrated success in collaborative research projects with ESA and Airbus, focusing on innovative robotic solutions."
+    
+    education:
+      - type: EducationEntry
+        institution: "Cranfield University"
+        area: "Robotics"
+        degree: "MSc"
+        start_date: "2022-09"
+        end_date: "2023-09"
+        location: "Cranfield, UK"
+        highlights:
+          - "Specialised modules: Artificial Intelligence, Autonomy in Robotics, Robot Control"
+          - "Developed ROS2 and multi-arm robotic coordination skills"
+          - "Collaborated with ESA and Airbus on in-orbit assembly demonstrator project"
+      
+      - type: EducationEntry
+        institution: "BML Munjal University"
+        area: "Computer Science"
+        degree: "BTech"
+        start_date: "2018-07"
+        end_date: "2022-06"
+        location: "India"
+        highlights:
+          - "Comprehensive training in robotics, machine learning, and software development"
+          - "Proficient in Python, ROS, Arduino, and advanced programming techniques"
+    
+    professional_experience:
+      - type: ExperienceEntry
+        company: "Autonomous Agricultural Robotics"
+        position: "Robotics Engineer"
+        start_date: "2024-05"
+        end_date: "present"
+        location: "Remote, UK"
+        highlights:
+          - "Designed autonomous field robot for precision bamboo branch trimming"
+          - "Integrated computer vision and sensor fusion (LiDAR, cameras, IMUs) for real-time navigation"
+          - "Developed ROS2 simulation with advanced autonomous navigation algorithms"
+          - "Improved operational efficiency by 75% through advanced robotic precision"
+      
+      - type: ExperienceEntry
+        company: "Fiverr"
+        position: "Data Scientist"
+        start_date: "2021-12"
+        end_date: "2022-05"
+        location: "Remote, UK"
+        highlights:
+          - "Engineered advanced recommendation algorithms using NLP and machine learning"
+          - "Developed robust data processing pipelines across five countries"
+          - "Achieved 100% client satisfaction through precise technical solutions"
+      
+      - type: ExperienceEntry
+        company: "Siva Mechanical Works"
+        position: "Software Engineer"
+        start_date: "2020-04"
+        end_date: "2022-09"
+        location: "Hyderabad, India"
+        highlights:
+          - "Developed Python software solution for billing and record-keeping processes"
+          - "Implemented OCR for data extraction and standardisation"
+          - "Reduced manual errors by 99.32% through advanced data pipeline design"
+    
+    projects:
+      - type: NormalEntry
+        title: "Multi-Robot SWARM using Reinforcement Learning"
+        start_date: "2024-05"
+        end_date: "present"
+        location: "UK"
+        highlights:
+          - "Designed decentralised decision-making approach for autonomous robot navigation"
+          - "Developed single policy network for multi-robot coordination"
+          - "Achieved 73% success rate in goal-reaching tasks"
+      
+      - type: NormalEntry
+        title: "ERL Smart City Robotics Project"
+        start_date: "2023-09"
+        end_date: "2023-10"
+        location: "Cranfield, UK"
+        highlights:
+          - "Developed 3D reconstruction system using stereo camera point-cloud data"
+          - "Implemented real-time perception algorithms in ROS"
+          - "Winner of 'Shopping Pick and Pack' episode in European Robotics League"
+    
+    skills:
+      - type: NormalEntry
+        title: "Technical Skills"
+        highlights:
+          - "ROS"
+          - "Python"
+          - "C++"
+          - "Machine Learning"
+          - "Computer Vision"
+          - "Sensor Fusion"
+          - "OpenCV"
+          - "MATLAB"
+          - "ROS2"
+      
+      - type: NormalEntry
+        title: "Tools"
+        highlights:
+          - "Gazebo"
+          - "TensorFlow"
+          - "OpenAI Gym"
+          - "Scikit-learn"
+          - "SIMULINK"
+      
+      - type: NormalEntry
+        title: "Soft Skills"
+        highlights:
+          - "Interdisciplinary Collaboration"
+          - "Technical Communication"
+          - "Problem-solving"
+    
+    languages:
+      - type: NormalEntry
+        title: "Languages"
+        highlights:
+          - "English (Professional)"
+          - "Telugu (Native)"
+          - "Hindi (Basic)"

@@ -1,0 +1,112 @@
+{
+  "hard_skills": [
+    {
+      "term": "locomotion algorithms",
+      "context": "Develop locomotion algorithms - Implement algorithms for gait planning, state estimation, and balance control"
+    },
+    {
+      "term": "gait planning",
+      "context": "Implement algorithms for gait planning, state estimation, and balance control"
+    },
+    {
+      "term": "state estimation",
+      "context": "Implement algorithms for gait planning, state estimation, and balance control"
+    },
+    {
+      "term": "balance control",
+      "context": "Implement algorithms for gait planning, state estimation, and balance control"
+    },
+    {
+      "term": "sensor data processing",
+      "context": "Sensor data processing - Utilize IMUs, force sensors, and cameras for robot perception"
+    },
+    {
+      "term": "C/C++",
+      "context": "Strong programming skills in C/C++ and Python"
+    },
+    {
+      "term": "Python",
+      "context": "Strong programming skills in C/C++ and Python"
+    }
+  ],
+  "tools_software": [
+    {
+      "term": "ROS",
+      "context": "Experience with RTOS (ROS), Gazebo, and real-time locomotion algorithms"
+    },
+    {
+      "term": "Gazebo",
+      "context": "Experience with RTOS (ROS), Gazebo, and real-time locomotion algorithms"
+    },
+    {
+      "term": "IMUs",
+      "context": "Utilize IMUs, force sensors, and cameras for robot perception"
+    },
+    {
+      "term": "force sensors",
+      "context": "Utilize IMUs, force sensors, and cameras for robot perception"
+    },
+    {
+      "term": "cameras",
+      "context": "Utilize IMUs, force sensors, and cameras for robot perception"
+    }
+  ],
+  "certifications": [],
+  "soft_skills": [],
+  "responsibilities": [
+    {
+      "term": "develop locomotion algorithms",
+      "context": "Develop locomotion algorithms - Implement algorithms for gait planning, state estimation, and balance control"
+    },
+    {
+      "term": "simulation & testing",
+      "context": "Simulation & testing - Validate software using physics-based simulations"
+    },
+    {
+      "term": "sensor data processing",
+      "context": "Sensor data processing - Utilize IMUs, force sensors, and cameras for robot perception"
+    },
+    {
+      "term": "RTOS integration",
+      "context": "RTOS integration - Develop software modules for real-time robot control"
+    }
+  ],
+  "job_titles": [
+    {
+      "term": "Robotics Software Engineer",
+      "context": "The Robotics Software Engineer will be responsible for developing locomotion algorithms and ensuring real-time control stability for dynamic walking robots"
+    }
+  ],
+  "industry_terms": [
+    {
+      "term": "humanoid robots",
+      "context": "Engineered Arts is the leading manufacturer of full-size humanoid robots used for entertainment, education and communication"
+    },
+    {
+      "term": "real-time control",
+      "context": "Robotics Software Engineer will be responsible for developing locomotion algorithms and ensuring real-time control stability for dynamic walking robots"
+    },
+    {
+      "term": "dynamic walking robots",
+      "context": "Robotics Software Engineer will be responsible for developing locomotion algorithms and ensuring real-time control stability for dynamic walking robots"
+    }
+  ],
+  "action_verbs": [
+    {
+      "term": "develop",
+      "context": "Develop locomotion algorithms"
+    },
+    {
+      "term": "implement",
+      "context": "Implement algorithms for gait planning, state estimation, and balance control"
+    },
+    {
+      "term": "validate",
+      "context": "Validate software using physics-based simulations"
+    },
+    {
+      "term": "utilize",
+      "context": "Utilize IMUs, force sensors, and cameras for robot perception"
+    }
+  ]
+}

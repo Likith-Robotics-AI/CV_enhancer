@@ -1,0 +1,145 @@
+{
+  "hard_skills": [
+    {
+      "term": "bank reconciliations",
+      "context": "Bank Reconciliations for UK and Spain entities"
+    },
+    {
+      "term": "accounts payable",
+      "context": "Accounts Payable: including processing supplier invoices and allocating payments"
+    },
+    {
+      "term": "accounts receivable",
+      "context": "Accounts Receivable, includes creating and sending invoices to business customers"
+    },
+    {
+      "term": "credit control",
+      "context": "Credit Control - politely chasing business customers with outstanding invoices"
+    },
+    {
+      "term": "accruals accounting",
+      "context": "Excellent attention to detail and a great understanding of accruals accounting"
+    }
+  ],
+  "tools_software": [
+    {
+      "term": "Xero",
+      "context": "Good knowledge of Xero Software, or similar accounting software packages"
+    },
+    {
+      "term": "Microsoft Excel",
+      "context": "Computer literate with excellent excel skills"
+    }
+  ],
+  "certifications": [],
+  "soft_skills": [
+    {
+      "term": "self-motivated",
+      "context": "Self-motivated"
+    },
+    {
+      "term": "attention to detail",
+      "context": "Excellent attention to detail"
+    },
+    {
+      "term": "problem solver",
+      "context": "Be a problem solver, working closely with the Finance Director on solutions"
+    },
+    {
+      "term": "team player",
+      "context": "someone who is adaptable and an excellent team player"
+    }
+  ],
+  "responsibilities": [
+    {
+      "term": "reconcile daily cash and credit card takings",
+      "context": "Reconcile daily cash and credit card takings for Spain"
+    },
+    {
+      "term": "reconcile company credit cards",
+      "context": "Reconciling company credit cards for UK & Spain"
+    },
+    {
+      "term": "supplier statement reconciliations",
+      "context": "Supplier statement reconciliations UK & Spain"
+    },
+    {
+      "term": "process supplier invoices",
+      "context": "Accounts Payable: including processing supplier invoices and allocating payments"
+    },
+    {
+      "term": "create and send invoices",
+      "context": "Accounts Receivable, includes creating and sending invoices to business customers"
+    },
+    {
+      "term": "chase outstanding invoices",
+      "context": "Credit Control - politely chasing business customers with outstanding invoices"
+    },
+    {
+      "term": "update customer and supplier data",
+      "context": "Keeping customer and supplier data up to date on Xero including contact details and bank accounts"
+    },
+    {
+      "term": "assist with month end",
+      "context": "Assisting with month end, ensuring prepayments and accruals are accurate based on invoices received, posting journals as required"
+    }
+  ],
+  "job_titles": [
+    {
+      "term": "Accounts Assistant",
+      "context": "Accounts Assistant"
+    },
+    {
+      "term": "CFO",
+      "context": "Reporting directly into the CFO"
+    },
+    {
+      "term": "Finance Director",
+      "context": "Be a problem solver, working closely with the Finance Director on solutions"
+    }
+  ],
+  "industry_terms": [
+    {
+      "term": "public practice",
+      "context": "Sector: Accounting - Public practice"
+    },
+    {
+      "term": "B2B",
+      "context": "growing our E-commerce and B2B platforms"
+    },
+    {
+      "term": "e-commerce",
+      "context": "growing our E-commerce and B2B platforms"
+    },
+    {
+      "term": "hospitality",
+      "context": "Retail or hospitality experience"
+    }
+  ],
+  "action_verbs": [
+    {
+      "term": "reconcile",
+      "context": "Reconcile daily cash and credit card takings for Spain"
+    },
+    {
+      "term": "process",
+      "context": "Accounts Payable: including processing supplier invoices and allocating payments"
+    },
+    {
+      "term": "create",
+      "context": "Accounts Receivable, includes creating and sending invoices to business customers"
+    },
+    {
+      "term": "chase",
+      "context": "Credit Control - politely chasing business customers with outstanding invoices"
+    },
+    {
+      "term": "update",
+      "context": "Keeping customer and supplier data up to date on Xero"
+    },
+    {
+      "term": "assist",
+      "context": "Assisting with month end"
+    }
+  ]
+}

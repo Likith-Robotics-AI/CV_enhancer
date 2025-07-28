@@ -1,0 +1,110 @@
+cv:
+  name: "Likith Kumar Reddy Yammanuru"
+  location: "Milton Keynes, United Kingdom"
+  email: "yammanurulikithkumar@gmail.com"
+  phone: "+447469277120"
+  social_networks:
+    - network: "LinkedIn"
+      username: "likith-yammanuru"
+  
+  sections:
+    personal_statement: 
+      - "Robotics engineer specialising in ROS2, reinforcement learning, and motion planning, with proven expertise in developing autonomous robotic systems. Demonstrated success in multi-robot coordination, sensor fusion, and AI-driven task optimization through practical research and industry projects."
+    
+    education:
+      - institution: "Cranfield University"
+        area: "Robotics"
+        degree: "MSc"
+        start_date: "2022-09"
+        end_date: "2023-09"
+        location: "Cranfield, UK"
+        highlights:
+          - "Completed advanced modules in Artificial Intelligence, Robotics Autonomy, and Human-Robot Interaction"
+          - "Developed autonomous parcel delivery system in collaboration with Rail Safety and Standards Board"
+          - "Represented Cranfield in European Robotics League competition"
+
+      - institution: "BML Munjal University"
+        area: "Computer Science"
+        degree: "BTech"
+        start_date: "2018-07"
+        end_date: "2022-06"
+        location: "India"
+        highlights:
+          - "Comprehensive curriculum covering robotics, machine learning, and software development"
+          - "Served as class representative for machine learning courses"
+
+    experience:
+      - company: "Autonomous Agricultural Robotics"
+        position: "Robotics Engineer"
+        start_date: "2024-05"
+        end_date: "present"
+        location: "Remote, UK"
+        highlights:
+          - "Designed autonomous field robot for precision bamboo branch trimming using computer vision and sensor fusion"
+          - "Integrated LiDAR, cameras, and IMUs for real-time navigation and obstacle avoidance"
+          - "Developed ROS2-based simulation achieving 75% operational efficiency improvement"
+          - "Implemented advanced perception algorithms for autonomous traversal in unstructured farm environments"
+
+      - company: "Fiverr"
+        position: "Data Scientist"
+        start_date: "2021-12"
+        end_date: "2022-05"
+        location: "Remote"
+        highlights:
+          - "Engineered recommendation algorithms using NLP and machine learning for 11 international clients"
+          - "Developed data processing pipelines with web crawlers and advanced transformation techniques"
+          - "Achieved 100% client satisfaction through precise technical solutions and clear communication"
+
+      - company: "Siva Mechanical Works"
+        position: "Software Engineer"
+        start_date: "2020-04"
+        end_date: "2022-09"
+        location: "Hyderabad, India"
+        highlights:
+          - "Developed Python-based software solution for billing and record-keeping processes"
+          - "Implemented OCR for data extraction, reducing manual errors by 99.32%"
+          - "Created standardized data pipelines improving operational efficiency"
+
+    projects:
+      - name: "SWARM Multi-Robot System"
+        start_date: "2024-05"
+        end_date: "present"
+        highlights:
+          - "Designed decentralized decision-making approach for autonomous robot navigation"
+          - "Developed reinforcement learning framework using Python, TensorFlow, and ROS2"
+          - "Achieved 73% success rate in multi-robot goal-reaching tasks"
+
+      - name: "ERL Smart City Robotics"
+        start_date: "2023-09"
+        end_date: "2023-10"
+        highlights:
+          - "Developed 3D reconstruction system using stereo camera point cloud data"
+          - "Implemented perception algorithms in ROS with OpenCV and PCL"
+          - "Secured winner in 'Shopping Pick and Pack' and third place in 'Through the Door' challenges"
+
+      - name: "Multi-Arm Robot Assembly System"
+        start_date: "2023-02"
+        end_date: "2023-05"
+        highlights:
+          - "Collaborated with AIRBUS and ESA to develop ROS-based multi-arm robotic simulation"
+          - "Programmed robotic control plugins for precise pick-and-place operations"
+          - "Presented technical findings to AIRBUS board members"
+
+    skills:
+      - label: "Technical Skills"
+        details: "ROS, Python, C++, Machine Learning, Computer Vision, Sensor Fusion, OpenCV, MATLAB"
+      - label: "Tools"
+        details: "Gazebo, RViz, TensorFlow, Scikit-learn, Docker"
+      - label: "Soft Skills"
+        details: "Technical Communication, Collaborative Problem-Solving, Agile Methodology"
+
+    languages:
+      - label: "Languages"
+        details: "English (Professional), Telugu (Native), Hindi (Basic)"
+
+    extracurricular_activities:
+      - bullet: "Presented group project at RAS 2024 IEEE UK Conference"
+      - bullet: "Participated in Olympus Rover Trial and European Robotics League"
+
+  design:
+    theme: "engineeringresumes"

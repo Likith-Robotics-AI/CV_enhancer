@@ -1,0 +1,417 @@
+You are an expert UK recruitment specialist with deep knowledge of UK hiring practices across industries and experience levels. Your job is to optimize this CV for the UK market, ensuring both **high-quality STAR-formatted content** and **strict compliance with RenderCV's YAML structure**.
+
+## INPUTS:
+**Job Description:**
+Engineered Arts Ltd logo
+Engineered Arts Ltd
+Share
+Show more options
+Robotics R&D Software Engineer 
+Falmouth, England, United Kingdom · 2 weeks ago · Over 100 applicants
+Promoted by hirer · Actively reviewing applicants
+
+
+ On-site
+Matches your job preferences, workplace type is On-site.
+
+ Full-time
+Matches your job preferences, job type is Full-time.
+
+Easy Apply
+
+Save
+Save Robotics R&D Software Engineer  at Engineered Arts Ltd
+How your profile and resume fit this job
+Get AI-powered advice on this job and more exclusive features with Premium. Try Premium for £0
+
+
+
+Tailor my resume to this job
+
+Am I a good fit for this job?
+
+How can I best position myself for this job?
+
+Meet the hiring team
+Hannah Typhair is hiring
+Hannah Typhair  
+ 2nd
+Senior Talent Acquisition Specialist at Engineered Arts 🤖
+Job poster · 7 mutual connections
+
+Message
+About the job
+Engineered Arts is the leading manufacturer of full-size humanoid robots used for entertainment, education and communication. With 20 years of hardware and software development, our robots have been sold in over 30 countries worldwide with customers such as NASA, PwC, Meta and many more.
+
+
+About the Role
+
+
+
+The Robotics Software Engineer will be responsible for developing locomotion algorithms and ensuring real-time control stability for dynamic walking robots. This role involves collaboration with other engineers to optimize motion strategies and integrate various sensors for accurate feedback.
+
+
+
+
+Responsibilities
+
+
+
+Develop locomotion algorithms - Implement algorithms for gait planning, state estimation, and balance control
+Simulation & testing - Validate software using physics-based simulations
+Sensor data processing - Utilize IMUs, force sensors, and cameras for robot perception
+RTOS integration - Develop software modules for real-time robot control
+
+
+
+
+Required Skills
+
+
+
+Strong programming skills in C/C++ and Python
+Experience with RTOS (ROS), Gazebo, and real-time locomotion algorithms
+Experience with real world hardware
+Simulation & real-world testing - Work in both physics-based simulations and real hardware for validation and performance optimization
+
+
+
+
+Our internal motto is ‘Be Wow’, everything we do is fun, entertaining or surprising to encounter. We always push the boundaries of what is possible in humanoid robotics, researching and developing new systems and techniques to further their appeal. We explore and challenge the human perception of robots as well as the fear and discomfort and the excitement and joy life-like mechanical humanoids present.
+
+**Current CV Data:**
+Dhruthi Saripalli
+dhruthisaripalli@gmail.com +44-7867258055 United Kingdom
+www.linkedin.com/in/dhruthi-saripalli
+Professional Summary
+Results-oriented professional with global experience in financial analysis, pricing strategy, and business
+development. Skilled in delivering data-driven insights using tools like Excel, Tableau, Xero, and Sage to
+optimize decision-making and revenue performance. Adept at cross-functional collaboration, client
+engagement, and identifying opportunities for growth across diverse business verticals.
+Skills
+Sales & Business Development: B2B Sales & Account Management, Communication & Negotiation.
+•
+Advertising & Campaign Strategy: Digital Advertising Concepts, Campaign Optimization & Analysis.
+•
+Tools & Technology: CRM Tools (Maginus Professional) (Salesforce familiarization), Excel (Advanced),
+•
+Tableau, Office 365.
+Education
+MSc in Management, Cranfield University 2022 Sep – 2023 Sep
+B.Tech in Electronics and Communication, 2018 Jul – 2022 Sep
+BML Munjal University
+Association of Chartered Certified Accountants 2025 May
+(ACCA)-Pursuing
+Professional Experience
+Business Account Executive, Currys 2025 Mar – present
+Built and managed B2B relationships with businesses across the UK, driving new account growth and
+•
+sales performance through in-store and Microsoft Teams interactions.
+Executed targeted outreach campaigns by engaging businesses with tailored value propositions,
+•
+including VAT reclaim benefits, preferential pricing, and supplier-direct offers.
+Applied needs-based selling to recommend technology solutions aligned with each client’s operational
+•
+goals, enhancing satisfaction and long-term retention.
+Utilized Maginus ERP software for effective lead tracking, sales order processing, and customer account
+•
+management.
+Monitor local competitor activity and recommend proactive strategies to ensure competitive and
+•
+relevant product and service offerings.
+Financial Analyst Trainee, Future Connect Accountants 2024 Jul – 2025 Mar
+Executed payroll operations using Sage 50, ensuring compliance with all HMRC regulations.
+•
+Led the implementation of Making Tax Digital using Xero, cutting processing time by 30%.
+•
+Utilized Excel (pivot tables, slicers) to streamline data workflows, improving reporting efficiency
+•
+Pricing Strategy and Financial Modelling Analyst, 2023 Jun – 2023 Sep
+Nettoken
+Led customer interviews and pricing model analysis to provide strategic insights for digital product
+•
+positioning and go-to-market planning.
+Developed and recommended data-driven pricing strategies by integrating cost analysis, profitability
+•
+objectives, and customer behavior insights.
+Provided actionable pricing insights that contributed to a 15% increase in customer acquisition and a
+•
+10% improvement in customer retention.
+Beta Strategist, Algoswing 2022 Jan – 2022 Sep
+Developed algorithms to mitigate losses and provide financial advice to customers, improving efficiency
+•
+by 40%.
+Conducted market research and analysed stock performance to identify investment opportunities.
+•
+Presented findings to upper management and contributed to data-driven decision-making and
+•
+improved customer satisfaction.
+Customer Account Manager, Siva Mechanical Works 2020 Apr – 2022 Sep
+Managed and maintained B2B client relationships, ensuring consistent communication and high levels
+•
+of customer satisfaction.
+Oversaw end-to-end invoicing, accounts receivable tracking, and timely payment processing to
+•
+maintain financial integrity.
+Led pricing negotiations and proactively resolved account discrepancies to support accurate financial
+•
+reporting and long-term client retention.
+
+**YAML Template:**
+{'cv': {'name': 'John Doe', 'location': 'Location', 'email': 'john.doe@example.com', 'phone': '+1-609-999-9995', 'website': None, 'social_networks': [{'network': 'LinkedIn', 'username': 'john.doe'}, {'network': 'GitHub', 'username': 'john.doe'}], 'sections': {'welcome_to_RenderCV!': ['[RenderCV](https://rendercv.com) is a Typst-based CV framework designed for academics and engineers, with Markdown syntax support.', 'Each section title is arbitrary. Each section contains a list of entries, and there are 7 different entry types to choose from.'], 'education': [{'institution': 'Stanford University', 'area': 'Computer Science', 'degree': 'PhD', 'date': None, 'start_date': '2023-09', 'end_date': 'present', 'location': 'Stanford, CA, USA', 'summary': None, 'highlights': ['Working on the optimization of autonomous vehicles in urban environments']}, {'institution': 'Boğaziçi University', 'area': 'Computer Engineering', 'degree': 'BS', 'date': None, 'start_date': '2018-09', 'end_date': '2022-06', 'location': 'Istanbul, Türkiye', 'summary': None, 'highlights': ['GPA: 3.9/4.0, ranked 1st out of 100 students', 'Awards: Best Senior Project, High Honor']}], 'experience': [{'company': 'Company C', 'position': 'Summer Intern', 'date': None, 'start_date': '2024-06', 'end_date': '2024-09', 'location': 'Livingston, LA, USA', 'summary': None, 'highlights': ['Developed deep learning models for the detection of gravitational waves in LIGO data', 'Published [3 peer-reviewed research papers](https://example.com) about the project and results']}, {'company': 'Company B', 'position': 'Summer Intern', 'date': None, 'start_date': '2023-06', 'end_date': '2023-09', 'location': 'Ankara, Türkiye', 'summary': None, 'highlights': ['Optimized the production line by 15% by implementing a new scheduling algorithm']}, {'company': 'Company A', 'position': 'Summer Intern', 'date': None, 'start_date': '2022-06', 'end_date': '2022-09', 'location': 'Istanbul, Türkiye', 'summary': None, 'highlights': ['Designed an inventory management web application for a warehouse']}], 'projects': [{'name': '[Example Project](https://example.com)', 'date': None, 'start_date': '2024-05', 'end_date': 'present', 'location': None, 'summary': 'A web application for writing essays', 'highlights': ['Launched an [iOS app](https://example.com) in 09/2024 that currently has 10k+ monthly active users', 'The app is made open-source (3,000+ stars [on GitHub](https://github.com))']}, {'name': '[Teaching on Udemy](https://example.com)', 'date': 'Fall 2023', 'start_date': None, 'end_date': None, 'location': None, 'summary': None, 'highlights': ['Instructed the "Statics" course on Udemy (60,000+ students, 200,000+ hours watched)']}], 'skills': [{'label': 'Programming', 'details': 'Proficient with Python, C++, and Git; good understanding of Web, app development, and DevOps'}, {'label': 'Mathematics', 'details': 'Good understanding of differential equations, calculus, and linear algebra'}, {'label': 'Languages', 'details': 'English (fluent, TOEFL: 118/120), Turkish (native)'}], 'publications': [{'title': '3D Finite Element Analysis of No-Insulation Coils', 'authors': ['Frodo Baggins', '***John Doe***', 'Samwise Gamgee'], 'doi': '10.1109/TASC.2023.3340648', 'url': None, 'journal': None, 'date': '2004-01'}], 'extracurricular_activities': [{'bullet': 'There are 7 unique entry types in RenderCV: *BulletEntry*, *TextEntry*, *EducationEntry*, *ExperienceEntry*, *NormalEntry*, *PublicationEntry*, and *OneLineEntry*.'}, {'bullet': 'Each entry type has a different structure and layout. This document demonstrates all of them.'}], 'numbered_entries': [{'number': 'This is a numbered entry.'}, {'number': 'This is another numbered entry.'}, {'number': 'This is the third numbered entry.'}], 'reversed_numbered_entries': [{'reversed_number': 'This is a reversed numbered entry.'}, {'reversed_number': 'This is another reversed numbered entry.'}, {'reversed_number': 'This is the third reversed numbered entry.'}]}}, 'design': {'theme': 'sb2nov', 'page': {'size': 'us-letter', 'top_margin': '2cm', 'bottom_margin': '2cm', 'left_margin': '2cm', 'right_margin': '2cm', 'show_page_numbering': True, 'show_last_updated_date': True}, 'colors': {'text': 'rgb(0, 0, 0)', 'name': 'rgb(0, 0, 0)', 'connections': 'rgb(0, 0, 0)', 'section_titles': 'rgb(0, 0, 0)', 'links': 'rgb(0, 79, 144)', 'last_updated_date_and_page_numbering': 'rgb(128, 128, 128)'}, 'text': {'font_family': 'New Computer Modern', 'font_size': '10pt', 'leading': '0.6em', 'alignment': 'justified', 'date_and_location_column_alignment': 'right'}, 'links': {'underline': True, 'use_external_link_icon': False}, 'header': {'name_font_family': 'New Computer Modern', 'name_font_size': '30pt', 'name_bold': True, 'small_caps_for_name': False, 'photo_width': '3.5cm', 'vertical_space_between_name_and_connections': '0.7cm', 'vertical_space_between_connections_and_first_section': '0.7cm', 'horizontal_space_between_connections': '0.5cm', 'connections_font_family': 'New Computer Modern', 'separator_between_connections': '', 'use_icons_for_connections': True, 'use_urls_as_placeholders_for_connections': False, 'make_connections_links': True, 'alignment': 'center'}, 'section_titles': {'type': 'with-full-line', 'font_family': 'New Computer Modern', 'font_size': '1.4em', 'bold': True, 'small_caps': False, 'line_thickness': '0.5pt', 'vertical_space_above': '0.5cm', 'vertical_space_below': '0.3cm'}, 'entries': {'date_and_location_width': '4.15cm', 'left_and_right_margin': '0.2cm', 'horizontal_space_between_columns': '0.1cm', 'vertical_space_between_entries': '1.2em', 'allow_page_break_in_sections': True, 'allow_page_break_in_entries': True, 'short_second_row': False, 'show_time_spans_in': []}, 'highlights': {'bullet': '◦', 'nested_bullet': '-', 'top_margin': '0.25cm', 'left_margin': '0.4cm', 'vertical_space_between_highlights': '0.25cm', 'horizontal_space_between_bullet_and_highlight': '0.5em', 'summary_left_margin': '0cm'}, 'entry_types': {'one_line_entry': {'template': '**LABEL:** DETAILS'}, 'education_entry': {'main_column_first_row_template': '**INSTITUTION**\n*DEGREE in AREA*', 'degree_column_template': None, 'degree_column_width': '1cm', 'main_column_second_row_template': 'SUMMARY\nHIGHLIGHTS', 'date_and_location_column_template': '*LOCATION*\n*DATE*'}, 'normal_entry': {'main_column_first_row_template': '**NAME**', 'main_column_second_row_template': 'SUMMARY\nHIGHLIGHTS', 'date_and_location_column_template': '*LOCATION*\n*DATE*'}, 'experience_entry': {'main_column_first_row_template': '**POSITION**\n*COMPANY*', 'main_column_second_row_template': 'SUMMARY\nHIGHLIGHTS', 'date_and_location_column_template': '*LOCATION*\n*DATE*'}, 'publication_entry': {'main_column_first_row_template': '**TITLE**', 'main_column_second_row_template': 'AUTHORS\nURL (JOURNAL)', 'main_column_second_row_without_journal_template': 'AUTHORS\nURL', 'main_column_second_row_without_url_template': 'AUTHORS\nJOURNAL', 'date_and_location_column_template': 'DATE'}}}, 'locale': {'language': 'en', 'phone_number_format': 'national', 'page_numbering_template': 'NAME - Page PAGE_NUMBER of TOTAL_PAGES', 'last_updated_date_template': 'Last updated in TODAY', 'date_template': 'MONTH_ABBREVIATION YEAR', 'month': 'month', 'months': 'months', 'year': 'year', 'years': 'years', 'present': 'present', 'to': '–', 'abbreviations_for_months': ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'June', 'July', 'Aug', 'Sept', 'Oct', 'Nov', 'Dec'], 'full_names_of_months': ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']}, 'rendercv_settings': {'date': '2025-03-01', 'bold_keywords': []}}
+
+**Extracted_Keywords_Context_JSON:**
+[INSERT_JSON_STRING_HERE]
+
+
+---
+
+## YOUR TASK:
+
+### 1. Analyze the Job Description:
+- Identify the target **experience level** (Entry, Mid, Senior)
+- Extract **core ATS keywords**, skills, tools, values, and metrics
+- Identify **measurable outcomes** and priorities from the JD to embed into CV
+
+---
+
+### 2. Optimize CV Content:
+- Use **STAR or Role–How–Outcome** format for every experience/project bullet
+- Begin each bullet with a **strong action verb**
+- End each bullet with a **measurable or demonstrable result**
+- Integrate job description **keywords and skills** naturally into profile, experience, and skills
+- Use **quantified metrics** where applicable: %, £, team size, timeframes
+- Apply **UK formatting**:
+  - UK spelling (optimise, organise, etc.)
+  - Date format: `MMM YYYY` (e.g., Mar 2023)
+  - Past tense for past roles, present tense for current ones
+  - Use **third-person, professional tone** (no "I", "we", "my")
+- Keep CV to **1 page for recent grads**, **2 pages for experienced candidates**
+- Use keywords from Extracted_Keywords_Context_JSON for keyword enhancement.
+---
+
+## EXTRACTED KEYWORDS USAGE INSTRUCTIONS:
+- Only use the exact phrases present in the Extracted_Keywords_Context_JSON input.
+- Do not paraphrase, assume, or reword any keyword or phrase.
+- Integrate only into the CV if that exact skill or context is supported in the CV content.
+- You must apply only those exact keywords in the following sections:
+  • `personal_statement` (if present)
+  • `experience.highlights`
+  • `projects.highlights`
+  • `skills`
+- When using action verbs from the list, only use them to begin experience or project highlights.
+- Do not fabricate or alter any achievements to include keywords unnaturally.
+
+
+## STRUCTURE & FORMAT RULES:
+
+### ✅ GENERAL STRUCTURE
+- Do **not fabricate** any data. Do not invent jobs, projects, or achievements
+- Use **RenderCV entry types only**:  
+  `EducationEntry`, `ExperienceEntry`, `NormalEntry`, `PublicationEntry`, `OneLineEntry`, `BulletEntry`, `NumberedEntry`, `ReversedNumberedEntry`
+- Maintain **exact field and section names** from the template
+- Keep all **required fields**, even if left empty
+- All entries must follow **reverse-chronological order**
+
+---
+
+### ✅ SECTION IDENTIFICATION RULES
+
+Only use valid RenderCV section names. Apply logic below to classify content properly.
+
+**Allowed Section Names:**
+personal_statement
+
+education
+
+experience
+
+projects
+
+internships
+
+research_experience
+
+publications
+
+patents
+
+certifications
+
+skills
+
+achievements
+
+extracurricular_activities
+
+volunteering
+
+leadership
+
+training
+
+languages
+
+hobbies
+
+references
+
+social_networks
+
+objective
+
+coursework
+
+thesis
+
+affiliations
+
+teaching_experience
+
+portfolios
+
+tools
+
+design
+
+
+**Selection Logic:**
+- `education`: degrees, universities, programs
+- `experience`: jobs with company and position
+- `projects`: technical/non-commercial projects
+- `internships`: labelled internships or temporary jobs
+- `certifications`: professional short-term courses (non-degree)
+- `skills`: grouped capabilities (e.g., tech stacks)
+- `extracurricular_activities`: clubs, competitions, robotics leagues
+- `publications`: citation-style paper listings
+- `thesis`: master's or dissertation research
+- `personal_statement`: opening summary or profile paragraph
+- `tools`: only if separate from skills (e.g., software tools listed independently)
+
+---
+## ADDITIONAL SECTION‑LEVEL RULES (apply universally to all CVs)
+
+### ✅ PERSONAL STATEMENT / PROFILE
+- If a statement exists, it must be placed under `cv.sections.personal_statement:` as a **list of YAML strings**, each item quoted.
+- **Minimum length**: 3–4 concise sentences (~50–70 words total), summarising candidate’s background, core skills, and relevance to the role—adapted to UK norms :contentReference[oaicite:1]{index=1}.
+- It should:
+  • Begin with a brief career overview (e.g., “Graduate..., Experienced...”)  
+  • Highlight 2–3 relevant skills, qualifications, or achievements  
+  • End with a tailored statement of intent or career aim
+- If absent in source CV, **omit the section** (do not invent it).
+
+### ✅ EDUCATION
+- Under `cv.sections.education:` use **EducationEntry**.
+- Required fields: `institution`, `area`, `degree`, `location`; at least one of `start_date` or `end_date`.
+- Include `summary:` (can be empty) and `highlights:` (can be empty list) for each entry.
+- Reverse chronological order (most recent first).
+- Avoid module-level detail unless explicitly in CV; concise and relevant only :contentReference[oaicite:2]{index=2}.
+
+### ✅ EXPERIENCE (INCLUDING INTERNSHIPS)
+- Use **ExperienceEntry** (or **Internship** classification logic).
+- Required: `company`, `position`. Optional: `start_date`, `end_date`, `location`, `summary`, `highlights`.
+- Order: Reverse chronological.
+- All `highlights:` must be STAR or Role–How–Outcome formatted, begin with action verbs, end with measurable result.
+- At least 2 bullets each, but preserve what exists (do not invent).
+- Integrate relevant JD keywords naturally.
+
+### ✅ PROJECTS / RESEARCH / THESIS
+- Use **ExperienceEntry**, or group under `projects` if defined by template.
+- Include `name`, optional `start_date`/`end_date`, `location` if present, `highlights`.
+- STAR-format bullet points; integrate role‑relevant skills.
+
+### ✅ SKILLS / TOOLS / LANGUAGES
+- Under `cv.sections.skills:` use:
+  - **OneLineEntry** for label/details pairs.
+- If `tools` are separate, list under separate allowed section (e.g., `tools`).
+- Do not split labels or invent new ones—present exactly as in CV.
+
+### ✅ PUBLICATIONS / PATENTS / CERTIFICATIONS
+- **PublicationEntry**: required `title`, `authors`; optional `date`, `doi`, `journal`, `url`.
+- **EducationEntry** style for `certifications`: must include `institution`, `area`, `degree` (e.g., certificate), `location`, at least one of `start_date` or `end_date`, plus `summary:` and `highlights:` keys (even if empty) — to avoid RenderCV validation error when section named `professional_certifications` :contentReference[oaicite:3]{index=3}.
+
+### ✅ EXTRACURRICULAR / VOLUNTEERING / LEADERSHIP / ACHIEVEMENTS
+- Use **BulletEntry** lists: each item must be `- bullet: "<text>"`, properly quoted.
+- No nested lists. Title each section using allowed heading names only.
+
+### ✅ SECTION PRESENCE & LISTS STRUCTURE
+- All CV content sections must live under `cv.sections:` and be **YAML lists**, even if only one entry.
+- If you encounter a top-level field (like `personal_statement`) **outside** `sections:`, move it into `cv.sections` as a list.
+- For example:
+
+
+### ✅ ENTRY TYPE VALIDATION RULES
+
+**EducationEntry**:
+- Required: `institution`, `area`, `degree`, `location`
+- At least one of: `start_date`, `end_date`
+- Must also include: `summary`, `highlights` (can be empty)
+
+**ExperienceEntry**:
+- Required: `company`, `position`
+- Optional but expected: `start_date`, `end_date`, `location`, `summary`, `highlights`
+
+**NormalEntry**:
+- Required: `name`
+- Optional: `location`, `summary`, `highlights`
+
+**PublicationEntry**:
+- Required: `title`, `authors`
+- Optional: `date`, `url`, `journal`, `doi`
+
+**OneLineEntry**:
+- Required: `label`, `details`
+
+**BulletEntry**:
+- Each bullet: `- bullet: "<text>"`, using valid YAML string formatting
+
+**NumberedEntry**:
+- Required field: `number`
+
+**ReversedNumberedEntry**:
+- Required field: `reversed_number`
+
+---
+
+### ✅ YAML FORMATTING RULES
+
+- Output must begin with `cv:` and be valid, indented YAML
+- Use `YYYY-MM` for all dates; `"present"` for ongoing roles
+- **Always quote strings** with colons `:`, commas `,`, percent `%`, or special characters to prevent YAML parsing errors (e.g., `"Achieved 100% accuracy in..."`)
+- Do not omit structurally required empty fields (e.g., `summary: ""`)
+- All content sections (e.g., education, experience, projects, skills, languages, etc.) must be placed **inside** the `cv.sections:` dictionary. Never place them directly under `cv:`.
+- Every section under `cv.sections` must be formatted as a **YAML list**, even if the section contains only one item (e.g., `personal_statement:` must be a list of strings).
+- The `website` field must either be left empty or contain a valid, fully qualified URL starting with `https://`
+- LinkedIn, GitHub, etc. must be included via `social_networks`, not `website`
+- Only use social platforms from:
+  `LinkedIn`, `GitHub`, `GitLab`, `ORCID`, `ResearchGate`, `StackOverflow`, `YouTube`, `Google Scholar`, `Telegram`, `X`, `Mastodon`
+- Do **not** include unsupported platforms like Medium, blogs, etc.
+
+---
+
+### ✅ DESIGN BLOCK
+
+At the end of the YAML file (outside `cv:` block), append:
+
+design:
+  theme: 
+
+
+Do **not** include any other design fields like fonts or margins.
+
+---
+
+## ✅ FINAL VALIDATION CHECKLIST (Internal Only – Do Not Output)
+- All experience bullets are STAR or Role–How–Outcome formatted
+- No fabricated content added
+- No required field missing
+- YAML parses without errors in RenderCV
+- Uses UK grammar, spelling, and formatting
+- Reverse chronological order respected
+- 1–2 page length constraint followed
+
+---
+
+## END INSTRUCTIONS
+
+Return **only** valid YAML beginning with `cv:` — no extra text, markdown, comments, or explanations.

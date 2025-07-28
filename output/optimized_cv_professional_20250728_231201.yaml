@@ -1,0 +1,82 @@
+cv:
+  name: "Dhruthi Saripalli"
+  location: "United Kingdom"
+  email: "dhruthisaripalli@gmail.com"
+  phone: "+44-7867258055"
+  website: null
+  social_networks:
+    - network: "LinkedIn"
+      username: "dhruthi-saripalli"
+  sections:
+    personal_statement:
+      - "Qualified Accounts Assistant with extensive experience in financial processing, invoicing, and business development. Skilled in using accounting software like Sage and Xero, with a proven track record of improving operational efficiency and maintaining financial integrity."
+    education:
+      - institution: "Cranfield University"
+        area: "Management"
+        degree: "MSc"
+        start_date: "2022-09"
+        end_date: "2023-09"
+        location: "United Kingdom"
+        summary: ""
+        highlights: []
+      - institution: "BML Munjal University"
+        area: "Electronics and Communication"
+        degree: "B.Tech"
+        start_date: "2018-07"
+        end_date: "2022-09"
+        location: "India"
+        summary: ""
+        highlights: []
+    certifications:
+      - institution: "Association of Chartered Certified Accountants"
+        area: "Accounting"
+        degree: "ACCA"
+        start_date: "2025-05"
+        end_date: "present"
+        location: "United Kingdom"
+        summary: "Professional accounting qualification in progress"
+        highlights: []
+    experience:
+      - company: "Currys"
+        position: "Business Account Executive"
+        start_date: "2025-03"
+        end_date: "present"
+        location: "United Kingdom"
+        summary: "B2B sales and account management in technology retail"
+        highlights:
+          - "Managed B2B relationships across the UK, driving new account growth through targeted outreach and tailored value propositions"
+          - "Executed sales strategies using Maginus ERP software, tracking leads and processing sales orders efficiently"
+          - "Monitored local competitor activity to recommend proactive product and service strategies"
+      - company: "Future Connect Accountants"
+        position: "Financial Analyst Trainee"
+        start_date: "2024-07"
+        end_date: "2025-03"
+        location: "United Kingdom"
+        summary: "Accounting and financial processing role"
+        highlights:
+          - "Executed payroll operations using Sage 50, ensuring full compliance with HMRC regulations"
+          - "Implemented Making Tax Digital using Xero, reducing processing time by 30%"
+          - "Utilized advanced Excel techniques to streamline data workflows and improve reporting efficiency"
+      - company: "Nettoken"
+        position: "Pricing Strategy and Financial Modelling Analyst"
+        start_date: "2023-06"
+        end_date: "2023-09"
+        location: "United Kingdom"
+        summary: "Strategic pricing and financial analysis"
+        highlights:
+          - "Conducted customer interviews and pricing model analysis to provide strategic digital product insights"
+          - "Developed data-driven pricing strategies integrating cost analysis and customer behavior"
+          - "Contributed to a 15% increase in customer acquisition and 10% improvement in customer retention"
+    skills:
+      - label: "Accounting Software"
+        details: "Sage 50, Xero, Maginus Professional"
+      - label: "Tools"
+        details: "Microsoft Excel (Advanced), Tableau, Office 365"
+      - label: "Business Skills"
+        details: "B2B Sales, Account Management, Financial Reporting, Invoicing, Reconciliation"
+    languages:
+      - label: "English"
+        details: "Native"
+    
+design:
+  theme: sb2nov
