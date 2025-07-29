@@ -1,0 +1,8 @@
+streamlit
+pyyaml
+anthropic
+PyPDF2
+pdfplumber
+python-docx
+pathlib
+collections-extended
